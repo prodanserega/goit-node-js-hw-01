@@ -1,0 +1,25 @@
+{
+  "name": "goit-node-js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodanserega/goit-node-js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prodanserega/goit-node-js-hw-01/issues"
+  },
+  "homepage": "https://github.com/prodanserega/goit-node-js-hw-01#readme",
+  "dependencies": {
+    "chaik": "0.0.4",
+    "commander": "^8.2.0"
+  }
+}
